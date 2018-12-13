@@ -8,7 +8,7 @@ Use it as a Middleware to protect your private page.
 You need to use your users session as user.
 This is the example of your session
 ```
-req.user.auth = 'admin';
+req.user.role = 'admin';
 
 ```
 Example of how to use.
