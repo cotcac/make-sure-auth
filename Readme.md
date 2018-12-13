@@ -1,3 +1,7 @@
+# Install
+```
+npm install make-sure-auth
+```
 # Description
 Use it as a Middleware to protect your private page.
 # Example
