@@ -14,7 +14,7 @@ req.user.role = 'admin';
 Example of how to use.
 
 ```
-const make_sure_auth = require('make_sure_auth');
+const make_sure_auth = require('make-sure-auth');
 
 app.use('/admin', make_sure_auth.isAdmin, function(req, res, next){
    // only admin and developer can acess.
