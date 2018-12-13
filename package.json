@@ -1,0 +1,16 @@
+{
+  "name": "make-sure-auth",
+  "version": "1.0.0",
+  "description": "Make sure auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "make",
+    "sure",
+    "auth"
+  ],
+  "author": "tran vuong",
+  "license": "ISC"
+}
